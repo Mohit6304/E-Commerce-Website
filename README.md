@@ -18,4 +18,4 @@
     Product Listings:               Users can browse and search for various products available on the platform.
     Shopping Cart:                  Users can add products to their cart, update quantities, and remove items.
     Order Management:               Users can place orders, view order history, and track order status.
-    Database Integration:           The project includes a MySQL database to store and manage user data, product information, and o                               order details.
+    Database Integration:           The project includes a MySQL database to store and manage user data, product information, and order details.
